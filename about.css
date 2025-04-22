@@ -231,6 +231,9 @@
   .navbar4-mobile-menu {
     padding: var(--dl-space-space-unit);
   }
+  .navbar4-buttons2 {
+    gap: var(--dl-space-space-unit);
+  }
 }
 
 .team-wrapper {
